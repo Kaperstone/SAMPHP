@@ -1,8 +1,12 @@
+!!!WARNING!!!
+======
+THIS PLUGIN IS UNDER A CODE REWRITE, SO IT WILL BE USELESS TO UPDATE THE CORE OF THE PLUGIN(C/++) UNTIL THE NEW VERSION CAMES UP.<br />
+Yet, you can still edit the Framework to add functionality.
+So, when the framework rewrite cames up, I'll add the whole functionality you added.
+
+
 SAMPHP - SA:MP Gamemode SDK for PHP
 ======
-
-SAMPHP provides an API for developing SA:MP Gamemodes using the popular script language PHP.
-
 Nearly every native function and every callback known from SA:MP are implemented.
 Most functions have the exact same syntax as their PAWN counterpart.
 Every function, that uses reference-passing got changed and either returns an associated array containing the information or if it only returns one information, returns it directly.
