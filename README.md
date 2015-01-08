@@ -1,7 +1,7 @@
 !!!WARNING!!!
 ======
 THIS PLUGIN IS UNDER A CODE REWRITE, SO IT WILL BE USELESS TO UPDATE THE CORE OF THE PLUGIN(C/++) UNTIL THE NEW VERSION CAMES UP.<br />
-Yet, you can still edit the Framework to add functionality.
+Yet, you can still edit the Framework to add functionality.<br />
 So, when the framework rewrite cames up, I'll add the whole functionality you added.
 
 
