@@ -140,6 +140,16 @@ class Player
 	{
 		return GetPlayerArmour($this->id);
 	}
+	
+	public function setArmor($armor)
+	{
+		return SetPlayerArmour($this->id, $armor);
+	}
+
+	public function getArmor()
+	{
+		return GetPlayerArmour($this->id);
+	}
 
 	public function setAmmo($weaponslot, $ammo)
 	{
@@ -195,8 +205,17 @@ class Player
 	{
 		return SetPlayerColor($this->id, $color);
 	}
+	public function setColour($colour)
+	{
+		return SetPlayerColor($this->id, $colour);
+	}
 
 	public function getColor()
+	{
+		return GetPlayerColor($this->id);
+	}
+	
+	public function getColour()
 	{
 		return GetPlayerColor($this->id);
 	}
